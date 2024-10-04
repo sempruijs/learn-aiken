@@ -1,0 +1,8 @@
+{
+  "name": "hello-world",
+  "packageManager": "yarn@4.5.0",
+  "dependencies": {
+    "@meshsdk/core": "^1.7.7",
+    "cbor": "^9.0.2"
+  }
+}
